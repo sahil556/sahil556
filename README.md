@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi there 👋, I'm Sahil Nandaniya 👨‍💻</h1>
-<h4 align="center">Pre-final year student at <a href="https://www.ddu.ac.in/">Dharamsinh Desai University</a> </h4> 
+<h4 align="center">Final year student at <a href="https://www.ddu.ac.in/">Dharamsinh Desai University</a> </h4> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil556&label=Profile%20views&color=0e75b6&style=flat" alt="SahilNandaniya" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahil556&label=Profile%20views&color=0e75b6&style=flat" alt="SahilNandaniya" /> </p>-->
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently shaping **Data Structures & Algorithms**
